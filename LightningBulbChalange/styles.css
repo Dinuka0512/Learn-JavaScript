@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+
+    background-color: rgb(70, 70, 70);
+    color: white;
+}
+
+div{
+    width: 400px;
+    height: fit-content;
+    padding: 30px;
+    text-align: center;
+    border: 1px solid white;
+    border-radius: 8px;
+
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+h1{
+    color: gold;
+    margin: 0;
+}
+
+p{
+    color: gray;
+}
+
+button{
+    padding: 10px 15px;
+    background-color: gray;
+    color: rgb(29, 29, 29);
+    border: none;
+    border-radius: 5px;
+}
