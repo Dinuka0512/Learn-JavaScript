@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+
+    background-color: rgb(48, 48, 48);
+    color: white;
+}
+
+div{
+    width: fit-content;
+    height: fit-content;
+    padding: 30px;
+    border: 1px solid white;
+    border-radius: 5px;
+
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+
+    justify-items: center;
+}
+
+h1{
+    margin: 3px;
+}
+
+button{
+    padding: 10px 15px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
