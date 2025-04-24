@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+button{
+    padding: 10px 15px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+div{
+    width: 400px;
+    height: fit-content;
+    padding: 30px;
+    border: 2px solid red;
+    border-radius: 10px;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+h1{
+    margin: 0;
+}
