@@ -1,0 +1,1 @@
+JsBarcode("#barcode", "Genarate Barcode Now");

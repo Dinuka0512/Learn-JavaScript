@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Genarate Barcord</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="allWrapper">
+        <!-- TEXTS AND FORMS -->
+        <div class="textwrapper">
+            <h1>Genarate Your barcode Now!</h1>
+            <p>A barcode generator is a tool that creates barcodes based on information you enter, like product names, numbers, or IDs. It quickly turns the data into a scannable code that can be printed or used digitally for easy tracking and identification.</p>
+    
+            <!-- FORM -->
+             <form action="">
+                <label for="bar_Value">Ebter Barcode Value : </label>
+                <input type="text" id="bar_Value">
+                <button type="submit">submit</button>
+             </form>
+        </div>
+    
+        <!-- GENARATED BAECODE SECTION -->
+        <svg id="barcode"></svg>
+    
+        <script src="JsBarcode.all.min.js"></script>
+        <script src="script.js"></script>
+    </div>
+</body>
+</html> 
