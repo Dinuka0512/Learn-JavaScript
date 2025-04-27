@@ -1,6 +1,5 @@
-![image](https://github.com/user-attachments/assets/72a52aea-ab75-43b4-add1-83e7fa0b6716)Lession12 --> Changed the Text When Click the Button
+Lession12 --> Changed the Text When Click the Button
 ![image](https://github.com/user-attachments/assets/9fc2793e-1a30-4e06-8bb0-425df3353cf4)
-
 
 Lightning Bulb Challange
 
